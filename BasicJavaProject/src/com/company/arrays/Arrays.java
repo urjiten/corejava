@@ -7,6 +7,9 @@ public class Arrays {
 		Arrays arrays = new Arrays();
 		arrays.run();
 	}
+	
+	
+	
 
 	private void run() {
 		
